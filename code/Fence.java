@@ -1,4 +1,4 @@
-package HiVolt2;
+package code;
 
 public class Fence {
 	int x;

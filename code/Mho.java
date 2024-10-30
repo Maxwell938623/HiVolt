@@ -1,4 +1,5 @@
-package HiVolt2;
+package code;
+
 import java.util.*;
 import java.lang.*;
 public class Mho {

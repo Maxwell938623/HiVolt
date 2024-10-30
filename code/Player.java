@@ -1,4 +1,5 @@
-package HiVolt2;
+package code;
+
 import java.util.*;
 public class Player {
 	Random r = new Random();

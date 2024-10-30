@@ -1,4 +1,5 @@
-package HiVolt2;
+package code;
+
 import java.awt.event.*;
 import java.util.*;
 import javax.swing.*;
